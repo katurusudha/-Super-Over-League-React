@@ -1,0 +1,15 @@
+/* Write your code here. */
+.heading {
+  color: #0f172a;
+  font-family: "Roboto";
+  font-size: 40px;
+}
+.image {
+  height: 400px;
+  width: 400px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
